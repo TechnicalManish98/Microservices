@@ -1,0 +1,7 @@
+Limit-service
+
+http://localhost:8080/limits
+
+Spring-cloud-config-server
+
+http://localhost:8888/limits-service/default
